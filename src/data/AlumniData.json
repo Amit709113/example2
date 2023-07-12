@@ -1,0 +1,23 @@
+{
+    "feedback":[
+        {
+            "name":"Seema Sahu",
+            "notes":"ipsum dolor sit amet consectetur adipisicing elit. Illo delectus similique cupiditate enim facilis laudantium blanditiis tenetur voluptas dolores nostrum eveniet sunt porro sed nobis molestiae voluptatem eos impedit non labore natus, doloremque laborum autem harum obcaecati! Distinctio, odit officiis! dfew dffewf  fefsdfsdd werfwdwtw  sddfwefsdfsasf  fwdfw frgf fdfwdw  fdf sdf fer fsdfsd few fsdfwt f sdfewrf d ewrdf sdg gfd trggf fh juth hgh fsdfewd fdfef sderg fddt rfd twwd d  dsgd ggfd gg  dfd fgdd f g ddfgdfghr gfg f f gr ggg  rggf   r r  g fgf ghf rgf   r hg h y   hghdf jy hghggdh ddfrefdafdfad f dfada ew d dfd fd  c   cdff   dfad  adfee da  d  fe fd fdd ffd ff d d ",
+            "degegnation":"2K18 passout",
+            "imgSrc":"/src/Images/seema.jpg"
+        },
+        {
+            "name":"Preity Singh",
+            "notes":"Mama ka school tha so par liye aar kya ...  ",
+            "degegnation":"2K18 passout",
+            "imgSrc":"/src/Images/preity.jpg"
+        },
+        {
+            "name":"Sachin Manjhi",
+            "notes":"ipsum dolor sit amet consectetur adipisicing elit. Illo delectus similique cupiditate enim facilis laudantium blanditiis tenetur voluptas dolores nostrum eveniet sunt porro sed nobis molestiae voluptatem eos impedit non labore natus, doloremque laborum autem harum obcaecati! Distinctio, odit officiis!",
+            "degegnation":"2K18 passout",
+            "imgSrc":"/src/Images/sachin.jpg"
+        }
+
+    ]
+}
